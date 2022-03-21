@@ -1,0 +1,45 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    height: 160px;
+    justify-content: center;
+    align-items: center;
+    background: #293a1c;
+    color: #84A45A;
+}
+
+.footer span {
+    font-size: 1.2rem;
+   
+}
+.footer .email {
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.6rem;
+    color: #E4EBF2;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+}
+
+.social a {
+    font-size: 30px;
+    color: #E4EBF2;
+    margin: 4px;
+    transition: 0.3s ease;
+}
+.social a:hover {
+    transform: translateY(-8px);
+}
+
+@media screen and (max-width: 576px) {
+   .footer .email {
+       font-size: 20px;
+   }
+   .footer span {
+       font-size: 16px;
+   }
+}
