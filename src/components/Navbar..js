@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../styles/navbar.css";
-import Devimage from "../assets/devimage.svg";
+import Devimage from "../assets/desenho_teclado.png";
 
 function Navbar() {
   const [click, setClick] = useState(false);

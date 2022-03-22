@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/sobre.css";
-import perfil from "../assets/perfil.svg";
+import perfil from "../assets/borboleta.png";
 import curriculo from "../assets/CurrículoMateusAlves_fev2022.pdf";
 function Sobre() {
   return (
