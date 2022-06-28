@@ -38,9 +38,9 @@ function Navbar() {
 
       <div className="apresenta">
         <div className="text">
-          <p>Análise e Desenvolvimento de Sistemas</p>
+          <p>Analista e Desenvolvedor de Sistemas</p>
           <h1>Mateus Guimarães</h1>
-          <p>Desenvolvedor Junior</p>
+          <p>Desenvolvedor FullStack Jr</p>
           <p>...</p>
           
           

@@ -10,12 +10,12 @@ export function Footer() {
       </a>
       <div className="social">
         <a
-          href="https://api.whatsapp.com/send?phone=5521999090872"
+          href="https://api.whatsapp.com/send?phone=5527996423636"
           className="media"
         >
           <i className="fab fa-whatsapp"></i>
         </a>
-        <a href="https://www.instagram.com/sam_diogo/" className="media">
+        <a href="" className="media">
           <i className="fab fa-instagram"></i>
         </a>
       </div>

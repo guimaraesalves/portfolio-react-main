@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/sobre.css";
 import perfil from "../assets/borboleta.png";
-import curriculo from "../assets/CurrículoMateusAlves_fev2022.pdf";
+import curriculo from "../assets/CV_MateusAlves_jun2022.pdf";
 function Sobre() {
   return (
     <div className="sobre" id="sobre">
@@ -9,14 +9,16 @@ function Sobre() {
       <div className="text">
         <h1>Sobre Mim</h1>
         <p>
-          Aluno do Curso FullStack da Kenzie Academy, atualmente no Q3 Back End
-          - Python, Flask, MongoDB, SQL.{" "}
+          Desenvolvedor FullStack
+          {" "}
         </p>
         <br />
         <p>
-          Migrante da área da construção civil, com vasta experiência em
-          gerência de projetos em obras com grande valia para as Soft Skills de
-          comunicação, resiliência, empatia e colaboração.
+        Minha relação com a tecnologia começou nos anos 90 quando descobri
+        as inúmeras possibilidades da computação, gosto da área porque é
+        sempre desafiadora e nunca paramos de aprender coisas novas, meu
+        objetivo é aplicar os meus conhecimentos e as minhas habilidades,
+        adquiridas durante as diversas áreas em que atuei, na área de tecnologia.
         </p>
         <div className="botoes">
           <a
