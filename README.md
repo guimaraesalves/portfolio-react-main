@@ -3,7 +3,6 @@
 <h4 align="center">Analista e Desenvolvedor de Sistemas<br> Desenvolvedor FullStack</h4>
 <h3 align="center">Portfólio </h3>
 
-<hr>
 
 <img src='src/assets/desenho_teclado.png'>
 
