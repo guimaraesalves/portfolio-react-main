@@ -1,81 +1,70 @@
-import sunnyside from '../assets/sunnyside.png';
-import blog from '../assets/blog.png';
-import base from '../assets/base.png';
-import fylo from '../assets/fylo.png';
-import grid from '../assets/grid.png';
-import homepage from '../assets/homepage.png';
-import quiz from '../assets/quiz.png';
-import starbucks from '../assets/starbucks.png';
-import signup from '../assets/signUp-form.png';
-import jokempo from '../assets/jokempo.png';
-import webpizza from '../assets/webpizza.png';
-import pinterest from '../assets/homepage-Pinterest.png';
-import socialmedia from '../assets/social-media.png';
+import runlikeadev from '../assets/run-like-a-dev.png';
+import jogomemoria from '../assets/jogo-memoria.png';
+import horadia from '../assets/hora-dia.png';
+import telacadastro from '../assets/tela-cadastro.png';
+import lig4 from '../assets/lig4.png';
+import todolist from '../assets/to-do-list.png';
+import numismatas from '../assets/numismatas.png';
+import labirinto from '../assets/labirinto.png';
+import stackkenzie from '../assets/stack-kenzie.png';
+import burguerkenzie from '../assets/burguer-kenzie.png';
+import rickmorty from '../assets/rick-morty.png';
 
 export const SliderData = [
     {
-        image: webpizza,
+        image: stackkenzie,
         Languages: 'React',
-        link: 'https://pizza-websitereact.netlify.app/',
+        link: 'https://stack-kenzie-erickdevmaster.vercel.app/',
     },
     {
-        image: sunnyside,
+        image: runlikeadev,
         Languages: 'React',
-        link: 'https://sunnyside-frontendmentor-react.netlify.app/',
+        link: 'https://projeto-gestao-de-habitos-psi.vercel.app/',
     },
     {
-        image: signup,
+        image: numismatas,
+        Languages: 'React',
+        link: 'https://entrega-s3-kenzieshop-context-api-n193on6ch-guimaraesalves.vercel.app/',
+    },
+    {
+        image: burguerkenzie,
+        Languages: 'React Typescript',
+        link: 'https://hamburgueria-ts-27jtqja6c-guimaraesalves.vercel.app/',
+    },
+    {
+        image: rickmorty,
+        Languages: 'React',
+        link: 'https://atividade-buscando-mais-personagens-rho.vercel.app/',
+    },
+    {
+        image: todolist,
         Languages: 'html, css, javascript',
-        link: 'https://intro-signup-frontendmentor.netlify.app/',
+        link: 'https://atividade-to-do-list.vercel.app/',
     },
     {
-        image: pinterest,
+        image: telacadastro,
+        Languages: 'React',
+        link: 'https://entrega-s2-form-cadastro-i1ac0ke57-guimaraesalves.vercel.app/',
+    },
+    {
+        image: lig4,
         Languages: 'html, css, javascript',
-        link: 'https://projeto-clone-pinterest.netlify.app/',
+        link: 'https://quizzical-visvesvaraya-566c65.netlify.app/',
     },
     {
-        image: socialmedia,
+        image: labirinto,
         Languages: 'html, css, javascript',
-        link: 'https://sammy-socialmedia.netlify.app/',
+        link: 'https://focused-brown-445faf.netlify.app/',
     },
     {
-        image: starbucks,
+        image: jogomemoria,
         Languages: 'html, css, javascript',
-        link: 'https://sammynauta.github.io/Starbucks-Landing-Page/',
+        link: 'https://thirsty-payne-136dc9.netlify.app/',
     },
     {
-        image: homepage,
-        Languages: 'html, scss, javascript',
-        link: 'https://projeto-clone-vercel.netlify.app/',
-    },
-    {
-        image: quiz,
+        image: horadia,
         Languages: 'html, css, javascript',
-        link: 'https://quiz-sammy.netlify.app/',
+        link: 'https://tender-heisenberg-ebee59.netlify.app/',
     },
-    {
-        image: jokempo,
-        Languages: 'html, css, javascript',
-        link: 'https://jokempo.netlify.app/',
-    },
-    {
-        image: blog,
-        Languages: 'html, css, javascript',
-        link: 'https://blogr-page-sammynauta.netlify.app/',
-    },
-    {
-        image: base,
-        Languages: 'html, css, javascript',
-        link: 'https://base-apparel-frontendmentor.netlify.app/',
-    },
-    {
-        image: fylo,
-        Languages: 'html, css',
-        link: 'https://fyle-data-storage.netlify.app/',
-    },
-    {
-        image: grid,
-        Languages: 'html, css',
-        link: 'https://testimonials-grid-frontendmentor.netlify.app/',
-    },
+   
 ]
