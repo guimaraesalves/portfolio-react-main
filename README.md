@@ -10,8 +10,8 @@
 - **PROJETO FEITO EM REACT.**
 
 ### Seções
-- Sobre mim: Nessa seção tenho uma breve descrição dizendo um pouco sobre mim;
+- Sobre mim: Nessa seção tenho uma breve descrição dizendo um pouco sobre mim com o link direto para o meu linkedin e currículo;
 - Projetos: Apresenta alguns projetos desenvolvidos e com link direto para ve-los em funcionameto;
-- Conhecimentos: Nele apresento meus principais conhecimentos em algumas linguagens como o foco no front-end;
+- Conhecimentos: Nele apresento meus principais conhecimentos em algumas linguagens;
 - Contato: coloco a disposição meios de poder comunicação comigo.
 
